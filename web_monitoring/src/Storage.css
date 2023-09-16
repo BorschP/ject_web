@@ -1,0 +1,22 @@
+.table-header{
+    background: tan;
+}
+
+.table-container{
+    background: lightcoral;
+    height: auto;
+    max-width: 960px;
+    margin: auto;
+}
+
+.logo-storage{
+    display: inline-block;
+    margin-top: 26px;
+}
+
+.logo-storage a{
+    color: black;
+    text-decoration:none;
+    font-weight:bold;
+    font-size: 2rem;
+}
